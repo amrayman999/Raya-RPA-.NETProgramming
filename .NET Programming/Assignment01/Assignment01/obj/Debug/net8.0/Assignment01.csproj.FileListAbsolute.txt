@@ -1,0 +1,15 @@
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\bin\Debug\net8.0\Assignment01.exe
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\bin\Debug\net8.0\Assignment01.deps.json
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\bin\Debug\net8.0\Assignment01.runtimeconfig.json
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\bin\Debug\net8.0\Assignment01.dll
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\bin\Debug\net8.0\Assignment01.pdb
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.AssemblyInfoInputs.cache
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.AssemblyInfo.cs
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.sourcelink.json
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.dll
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\refint\Assignment01.dll
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.pdb
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\Assignment01.genruntimeconfig.cache
+C:\Users\amray\source\repos\Raya-RPA-Training\.NET Programming\Assignment01\Assignment01\obj\Debug\net8.0\ref\Assignment01.dll

@@ -1,0 +1,213 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="OgczDqbIr2L5662pv4Uz">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-1" target="wFT2JARldyq9CAmPzzFJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="5" y="300" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-2" target="wFT2JARldyq9CAmPzzFJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-2" value="Log In to System (1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="200" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-3" target="wFT2JARldyq9CAmPzzFJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-3" value="Click on Work Items In DashBoard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="315" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-4" target="wFT2JARldyq9CAmPzzFJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-4" value="Select Item of Type WI3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="440" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-5" target="wFT2JARldyq9CAmPzzFJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-5" value="Open System (1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="80" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-10" target="wFT2JARldyq9CAmPzzFJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-10" value="Open Item by clicking on show botton" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="560" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-12" target="wFT2JARldyq9CAmPzzFJ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-12" value="Press Download Pdf Invoice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="680" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-14" target="wFT2JARldyq9CAmPzzFJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-14" value="Open File with Pdf reader app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="800" y="285" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-16" target="wFT2JARldyq9CAmPzzFJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-16" value="Extract All Information from Pdf and close pdf reader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="920" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-18" target="wFT2JARldyq9CAmPzzFJ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-18" value="Go back to dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-20" target="wFT2JARldyq9CAmPzzFJ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-20" value="Choose Vendors click search for vendors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-22" target="wFT2JARldyq9CAmPzzFJ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-22" value="Put vendor TaxId extracted from pdf in the text box for it" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-24" target="-oTOBuLQL6dxIui6woNZ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-24" value="Click Search" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="285" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-34" target="-oTOBuLQL6dxIui6woNZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-34" value="Go Back to dashboard&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="405" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1350" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-39" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1390" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-40" target="-oTOBuLQL6dxIui6woNZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-40" value="Press Add invoice details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="860" y="405" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="-oTOBuLQL6dxIui6woNZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-44" target="wFT2JARldyq9CAmPzzFJ-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-44" value="Set status to rejected and add comment &quot;vendor with tax id [tax id] does not exist in system&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="980" y="510" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HL2QyfoyAzH8qBUsaHQY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-46" target="wFT2JARldyq9CAmPzzFJ-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-46" value="Send email to staff manager with invoice pdf to add the vendor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="860" y="510" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-50" value="Check for WI3 type work items exsisted ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="380" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-60" value="End" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="110" y="420" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-4" value="ACME System 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-5" value="Pdf Reader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="135" width="370" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-9" value="Color Map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="200" y="105" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KwnlyOBHrBYyayT5PCOi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwnlyOBHrBYyayT5PCOi-1" value="Close ACME system 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="250" y="405" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-1" target="wFT2JARldyq9CAmPzzFJ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-1" target="-oTOBuLQL6dxIui6woNZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-1" value="Check if Existed Vendor with extracted taxId" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="390" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-4" target="-oTOBuLQL6dxIui6woNZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-4" value="Choose Invoices and press add invoice details" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="405" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-5" target="wFT2JARldyq9CAmPzzFJ-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-5" value="Fill All fields with the extracted data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="980" y="405" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-7" value="Emal Platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="450" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-8" target="-oTOBuLQL6dxIui6woNZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-8" value="go back to work item details page and click update work item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="670" y="405" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-9" target="wFT2JARldyq9CAmPzzFJ-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-9" value="Add comment &quot;Added invoice [invoice Num] &quot; and change state to completed and click update work item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.396;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-50" target="wFT2JARldyq9CAmPzzFJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="425" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-21" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="340" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-22" target="-oTOBuLQL6dxIui6woNZ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-22" value="Go back to work item details page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="510" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-24" target="wFT2JARldyq9CAmPzzFJ-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-24" value="Click update work item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="510" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

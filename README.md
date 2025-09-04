@@ -8,7 +8,6 @@
 <h2 align="center">🎓 Graduate Program – Software Solutions Track (RPA Sub Track)</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Program-Completed-success?style=flat-square&logo=graduated&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-RPA-blue?style=flat-square&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Training-Raya%20IT-orange?style=flat-square&logo=readthedocs&logoColor=white"/>
 </p>

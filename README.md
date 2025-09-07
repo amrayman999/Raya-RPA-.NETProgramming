@@ -29,11 +29,11 @@ This space showcases my **professional growth** and serves as proof of expertise
 
 ## 🏆 Credentials & Certificates
 
-| Certification                        | Provider   | Status      |
-| ------------------------------------ | ---------- | ----------- |
-| 🎓 Python (Basic)                    | HackerRank | ✅ Completed |
-| 💻 C# (Basic)                        | HackerRank | ✅ Completed |
-| 🤖 UiPath Business Analyst Associate | UiPath     | ✅ Completed |
+| Certification                        | Provider   | Status      | Location |
+| -------------------------------------- | ---------- | ----------- | ------------ |
+| 🎓 Python (Basic)                     | HackerRank | ✅ Completed | Python Programming/python_basic certificate.jpg |
+| 💻 C# (Basic)                          | HackerRank | ✅ Completed | .NET Programming/Assignment01/Assignment01/c_sharp_basic certificate.jpg |
+| 🤖 UiPath Business Analyst Associate | UiPath     | ✅ Completed | Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Certificate.png , Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Credential.png|
 
 
 ---
@@ -43,8 +43,6 @@ This space showcases my **professional growth** and serves as proof of expertise
 ```bash
 Raya-RPA-Training/
 ├── .NET Programming/
-│   └── Assignment01/
-├── .vs/
 ├── Business Analysis/
 ├── Python Programming/
 ├── Other Materials
@@ -55,12 +53,21 @@ Raya-RPA-Training/
 
 ## 🚀 Assignments & Tasks
 
-* **.NET Programming** → Contains assignments in C#/.NET (e.g., Assignment01) and credentials.
-* **Business Analysis** → UiPath Business Analyst Associate training tasks and credentials.
-* **Python Programming** → Python practice tasks and HackerRank solutions and credentials.
-
+| Topic                                | Task Name                                                                                                                                             | Task Location                                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| .NET Programming                     | Assignment01 - String Manipulation Functions                                                                                                          | .NET Programming/Assignment01/Assignment01                                               |
+| Python Programming                   | Task01 - Random Password Generator                                                                                                                    | Python Programming/Task01.py                                                               |
+| Infrastructure, Security and Network | Task01 - UiPath Standalone Orchestrator on premises - Single Node                                                                                     | Infrastructure, Network and Security/Task01                                                                 |
+| Business Analysis                    | Task01 - Customer Service Process (as - is , to - be , automated daigrams)                                                                            | Business Analysis/Task01                                                                                       |
+|                                      | Task02 - ACME Verify Account Positions Full P.D.D                                                                                                     | Business Analysis/Task02                                                                                       |
+|                                      | Task03 - ACME Process Vendor Invoise (Full P.D.D , T.B.D , Complexity Analysis                                                                        | Business Analysis/Task03                                                                                       |
+|                                      | Task04 - ACME Verify Account Positions S.D.D Main Parts                                                                                               | Business Analysis/Task04                                                                                       |
+|                                      | UiPath BA - Task01 - Table Data extractions to google sheets RPA                                                                                      | Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Task01                   |
+|                                      | UiPath BA - Task02 - OnBoarding Process Assessment                                                                                                    | Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Task02                   |
+|                                      | UiPath BA - Task03 - Issues Solution for ACME System Use case                                                                                         | Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Task03                   |
+|                                      | UiPath BA - Task04 - Vendor OnBoarding (Process Assessment, P.D.D, Process Description, Process Vision Statement, Process Overview, SIPOC Model)      | Business Analysis/UiPath Automation Business Analyst Associate Training Certificate/Task04                   |
 ---
-
+ 
 ## 💡 Key Learnings
 
 * Deep understanding of **RPA concepts and lifecycle**

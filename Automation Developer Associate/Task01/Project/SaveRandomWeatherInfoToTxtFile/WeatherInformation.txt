@@ -1,0 +1,8 @@
+Main Information
+Description: Windy Temperature: Moderate High: 46°F
+                    (7°C) Low: 31°F
+                    (-1°C) Relative: Normal Wind Force: Moderate Wind Speed: 14 mph
+                    (22 kph)
+Description
+
+  Moderate Wind: A steady wind with a 50% chance of extinguishing candles, torches, and similar unprotected flames.

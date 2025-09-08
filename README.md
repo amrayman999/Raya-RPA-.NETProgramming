@@ -30,9 +30,10 @@ This space showcases my **professional growth** and serves as proof of expertise
 
 | Certification                        | Provider   | Status      | Location |
 | -------------------------------------- | ---------- | ----------- | ------------ |
-| 🎓 Python (Basic)                     | HackerRank | ✅ Completed | [Python](Python%20Programming/python_basic%20certificate.jpg) |
-| 💻 C# (Basic)                          | HackerRank | ✅ Completed | [C#](.NET%20Programming/Assignment01/Assignment01/c_sharp_basic%20certificate.jpg) |
-| 🤖 UiPath Business Analyst Associate | UiPath     | ✅ Completed | [UiPath Business Analyst certificate](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Certificate.png) , [UiPath Business Analyst Credential](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Credential.png)|
+| 🎓 Python (Basic)                     | HackerRank | ✅ Completed | [Python](Certificates/python_basic%20certificate.jpg) |
+| 💻 C# (Basic)                          | HackerRank | ✅ Completed | [C#](Certificates/Assignment01/Assignment01/c_sharp_basic%20certificate.jpg) |
+| 🤖 UiPath Business Analyst Associate | UiPath     | ✅ Completed | [UiPath Business Analyst certificate](Certificates/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/UiPath%20Business%20Analyst%20Associate%20Certificate.png)|
+| 🤖 UiPath Automation Infrastructure Engineer Professional with Windows Training | UiPath | ✅ Completed | [UiPath Infrastructure Professional Certificate](Certificates/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate.png/UiPath%20Automation%20InfraStructure%20Engineer%20Professional%20with%20Windows%20Training.png)
 
 ---
 
@@ -43,7 +44,8 @@ Raya-RPA-Training/
 ├── .NET Programming/
 ├── Business Analysis/
 ├── Python Programming/
-├── Other Materials
+├── Automation Developer Associate/
+├── Other Materials/
 └── README.md
 ```
 
@@ -64,6 +66,7 @@ Raya-RPA-Training/
 |                                      | UiPath BA - Task02 - OnBoarding Process Assessment                                                                                               | [UiPath BA - Task02](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task02) |
 |                                      | UiPath BA - Task03 - Issues Solution for ACME System Use Case                                                                                    | [UiPath BA - Task03](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task03) |
 |                                      | UiPath BA - Task04 - Vendor OnBoarding (Process Assessment, P.D.D, Process Description, Process Vision Statement, Process Overview, SIPOC Model) | [UiPath BA - Task04](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task04) |
+| Automation Developer Associate | Task01 - (sdd,pdd,uipath implementation of Extract Random Weather Process) | [Task01](Automation%20Developer%20Associate/Task01)
 
 ---
 

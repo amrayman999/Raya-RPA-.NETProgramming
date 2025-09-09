@@ -1,8 +1,8 @@
 Main Information
-Description: Windy Temperature: Moderate High: 46°F
-                    (7°C) Low: 31°F
-                    (-1°C) Relative: Normal Wind Force: Moderate Wind Speed: 14 mph
-                    (22 kph)
+Description: Volant Mistral Temperature: Moderate High: 42°F
+                    (5°C) Low: 23°F
+                    (-5°C) Relative: Colder than normal Wind Force: Moderate Wind Speed: 18 mph
+                    (28 kph)
 Description
 
-  Moderate Wind: A steady wind with a 50% chance of extinguishing candles, torches, and similar unprotected flames.
+  Volant Mistral: While a volant mistral blows, an individual of at least fifth level (5 HD) can fly at a speed of 40 feet (or 30 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good. Flying requires only as much concentration as walking, so the individual can attack or cast spells normally.  A volant mistral has a 50% chance of extinguishing candles, torches, and similar unprotected flames.

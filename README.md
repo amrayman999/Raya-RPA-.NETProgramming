@@ -66,7 +66,8 @@ Raya-RPA-Training/
 |                                      | UiPath BA - Task02 - OnBoarding Process Assessment                                                                                               | [UiPath BA - Task02](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task02) |
 |                                      | UiPath BA - Task03 - Issues Solution for ACME System Use Case                                                                                    | [UiPath BA - Task03](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task03) |
 |                                      | UiPath BA - Task04 - Vendor OnBoarding (Process Assessment, P.D.D, Process Description, Process Vision Statement, Process Overview, SIPOC Model) | [UiPath BA - Task04](Business%20Analysis/UiPath%20Automation%20Business%20Analyst%20Associate%20Training%20Certificate/Task04) |
-| Automation Developer Associate | Task01 - (sdd,pdd,uipath implementation of Extract Random Weather Process) | [Task01](Automation%20Developer%20Associate/Task01)
+| Automation Developer Associate | Task01 - (sdd,pdd,uipath implementation of Extract Random Weather Process) | [Task01](Automation%20Developer%20Associate/Task01) |
+|                                | UiPath Automation Developer Associate Training Task01 - Excell Reports Consolidation | [UiPath Task01](Automation%20Developer%20Associate/UiPath%20Automation%20Developer%20Associate%20Training/Task01) | 
 
 ---
 

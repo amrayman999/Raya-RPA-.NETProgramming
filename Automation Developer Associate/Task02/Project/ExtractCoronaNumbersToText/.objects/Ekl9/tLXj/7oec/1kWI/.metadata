@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Arial",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "1kWIeKviq0qZ_dWbd-lHMQ",
+  "Reference": "-r7PIYBD70ixaXfT9Brixg/1kWIeKviq0qZ_dWbd-lHMQ",
+  "ParentRef": "-r7PIYBD70ixaXfT9Brixg/7oecmw-aUEWX6KvnMyDwMg",
+  "Created": "2025-09-10T01:51:44.7446337Z",
+  "Updated": "2025-09-10T01:51:44.7446337Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

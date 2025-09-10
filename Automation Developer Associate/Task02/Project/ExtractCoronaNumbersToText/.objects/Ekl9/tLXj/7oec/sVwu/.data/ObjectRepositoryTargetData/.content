@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r-ln7f6AS0-zkK5Xnbf-Og" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7ce6067e-5ec1-46c9-93db-5341e609bb2f" CvTextArea="87, 63, 31, 17" CvTextArgument="Edit" CvType="Text" DesignTimeRectangle="87, 63, 31, 17" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="3f893220-eeec-4baf-bdc0-989120defeda" ScopeSelectorArgument="[string.Format(&quot;&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title=' {0}- Notepad' /&gt;&quot;, strCountryName)]" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d01c4b4a226b3651c80289c21a49a12e.png" xmlns="">0ML5ZDF8vJ0KJMsG0nBwUwA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="strCountryName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

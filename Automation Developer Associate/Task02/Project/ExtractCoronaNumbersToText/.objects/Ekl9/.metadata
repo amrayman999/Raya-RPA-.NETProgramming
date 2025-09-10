@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use Note Pad Application",
+  "Type": "App",
+  "Id": "Ekl9IwpA1UeAIjNxr1ut0Q",
+  "Reference": "-r7PIYBD70ixaXfT9Brixg/Ekl9IwpA1UeAIjNxr1ut0Q",
+  "Created": "2025-09-10T01:40:41.6188682Z",
+  "Updated": "2025-09-10T01:40:41.6188682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

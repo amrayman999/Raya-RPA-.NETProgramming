@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rYkkEjJoL0mhNndAqmtszQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="7201b96e-a9eb-4365-b103-52d8da105d5c" DesignTimeRectangle="266, 408, 416, 39" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H3' idx='1' /&gt;" Guid="70d7c55b-7cc4-4085-b2e4-14e56509f91e" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='msedge.exe' title='{0} coronavirus worldometer - Google Search' /&gt;&quot;, strCountryName)]" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="42daa4c565926682af8365619f6d8d61.png" xmlns="">0GAs7iQgmLkmPV7WZFTNL0g</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="strCountryName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

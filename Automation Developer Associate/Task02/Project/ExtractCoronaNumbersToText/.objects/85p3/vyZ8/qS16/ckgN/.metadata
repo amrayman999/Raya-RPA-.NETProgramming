@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click First Link Appeared",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ckgNDeIcu0-2W-TE98os2Q",
+  "Reference": "-r7PIYBD70ixaXfT9Brixg/ckgNDeIcu0-2W-TE98os2Q",
+  "ParentRef": "-r7PIYBD70ixaXfT9Brixg/qS16ZHyZVUGOaM0wGkZegA",
+  "Created": "2025-09-10T01:09:11.93156Z",
+  "Updated": "2025-09-10T01:09:11.93156Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.15.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

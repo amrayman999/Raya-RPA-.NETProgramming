@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CkPKaT_n3UG-9CMiyMQdgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="worldometers.info/coronavirus/country/spain" CVScreenId="9dd5249e-fe4a-4ae5-bafa-039c0781d791" DesignTimeRectangle="604, 675, 253, 92" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='maincounter-wrap' tag='SPAN' idx='2' /&gt;" Guid="951430f3-a841-41bf-98a9-c68c04b8ed1c" ScopeSelectorArgument="[string.Format(&quot;&lt;html app='msedge.exe' title='{0} COVID - Coronavirus Statistics - Worldometer' /&gt;&quot;, strCountryName)]" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="352f350bd2110a445b1733e360e1e25f.png" xmlns="">0m49jLFMk_0itaM3SbpT4uQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="strCountryName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

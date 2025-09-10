@@ -1,0 +1,143 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="OgczDqbIr2L5662pv4Uz">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-1" target="wFT2JARldyq9CAmPzzFJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="5" y="300" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-2" target="wFT2JARldyq9CAmPzzFJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-2" value="Type &quot;www.google.com&quot; in search bar and press enter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="200" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-3" target="wFT2JARldyq9CAmPzzFJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-3" value="Type&amp;nbsp;&lt;div&gt;&quot;{countryname} coronavirus worldometer&quot; in google search bar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="315" y="282.5" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-4" target="wFT2JARldyq9CAmPzzFJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-4" value="Press google search" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="440" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-5" target="wFT2JARldyq9CAmPzzFJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-5" value="Open edge Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="80" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-10" target="wFT2JARldyq9CAmPzzFJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-10" value="Open first link appeared" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="560" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-12" target="wFT2JARldyq9CAmPzzFJ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-12" value="Extract cases, deathes, recoveries values&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="680" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-14" target="wFT2JARldyq9CAmPzzFJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-14" value="Open NotePad App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="800" y="285" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-16" target="wFT2JARldyq9CAmPzzFJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-16" value="Paste the extracted data as &quot;&lt;div&gt;Cases: value&lt;br&gt;Deathes: value&lt;br&gt;Recoveries: value&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="920" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-18" target="wFT2JARldyq9CAmPzzFJ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-18" value="Choose edit then font from menu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wFT2JARldyq9CAmPzzFJ-20" target="wFT2JARldyq9CAmPzzFJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-20" value="Update font type to &quot;fixedsys&quot;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wFT2JARldyq9CAmPzzFJ-22" target="wFT2JARldyq9CAmPzzFJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-22" value="Update font style to &quot;Bold&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="395" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wFT2JARldyq9CAmPzzFJ-24" target="wFT2JARldyq9CAmPzzFJ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-24" value="Update font size to &quot;28&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="940" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-34" target="-oTOBuLQL6dxIui6woNZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-34" value="Go back to file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="780" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wFT2JARldyq9CAmPzzFJ-40" target="-oTOBuLQL6dxIui6woNZ-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-40" value="Close Note Pad app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="230" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wFT2JARldyq9CAmPzzFJ-60" value="End" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="5" y="405" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-4" value="Edge Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-5" value="Note Pad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="135" width="270" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c6uSJeGuoPB6IzsrEqpJ-9" value="Color Map" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="200" y="105" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-oTOBuLQL6dxIui6woNZ-4" target="7cIwo4RVIEops5prG9rO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-4" value="Choose save as from file menu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-5" target="wFT2JARldyq9CAmPzzFJ-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-5" value="Change file name to &quot;{countryname}-date.now} and click save" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="375" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-oTOBuLQL6dxIui6woNZ-8" target="wFT2JARldyq9CAmPzzFJ-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-oTOBuLQL6dxIui6woNZ-8" value="Close Edge Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="90" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7cIwo4RVIEops5prG9rO-2" target="-oTOBuLQL6dxIui6woNZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7cIwo4RVIEops5prG9rO-2" value="Choose location to be inside folder &quot;Corona Numbers&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
